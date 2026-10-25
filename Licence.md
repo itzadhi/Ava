@@ -1,4 +1,4 @@
-``Argoni PUBLIC LICENSE
+`` Argoni PUBLIC LICENSE
 Copyright (c) 2026 itz.adhi (Adhi) — Adhi Development
 All rights reserved.
 
@@ -131,4 +131,4 @@ the official Adhi Development Discord community:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-© 2026 itz.adhi (Adhi) — Adhi Development. Open Source. 
+© 2026 itz.adhi (Adhi) — Adhi Development. Open Source. ``
